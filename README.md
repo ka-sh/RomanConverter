@@ -2,7 +2,7 @@
 
 I have two algorithms that I used to solve the problem:
 
-###Algo-1
+### Algo-1
 based on two cell scan
 - if cell[i+1] <cell[i]
 
@@ -12,7 +12,7 @@ based on two cell scan
 - Else, carry on normally by converting the value of
   the Roman numeral to it's decimal  equivalent
 
-###Algo-2:
+### Algo-2:
 
 1- Convert the Roman numerals to decimals
 
